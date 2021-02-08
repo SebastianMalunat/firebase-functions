@@ -41,3 +41,7 @@ To contribute a change, [check out the contributing guide](.github/CONTRIBUTING.
 ## License
 
 © Google, 2017. Licensed under [The MIT License](LICENSE).
+
+## Changes
+
+These are changes I made :)
